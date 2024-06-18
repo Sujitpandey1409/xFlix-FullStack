@@ -3,9 +3,9 @@
 XFlix is a video sharing platform which hosts videos for the world to watch. It also features uploading new videos by using external video links (eg: Youtube) and playing these videos.
 
 ## Deployed links
-Frontend: https://a-krishnakundan-xflix-react.netlify.app/
+Frontend: https://sujit-xflix.netlify.app/
 
-Backend: https://xflix-backend-492l.onrender.com
+Backend: https://xflix-fullstack-8pil.onrender.com
 
 # Appendix
  • [Overview](#overview)
@@ -81,7 +81,7 @@ Request variants supported by “GET /v1/videos” endpoint
 
 ## Authors
 
-- [@AKrishnaKundan](https://www.github.com/AKrishnaKundan)
+- [@SujitPandey](https://www.github.com/Sujitpandey1409)
 
 - [@Crio.Do](https://www.crio.do/)
 
